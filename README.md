@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hello, My name is Steven Winters, a Cloud Engineer looking to become a DevOps Engineer. I'm new in the experience to cloud computing/programming but looking to gain more in the job field.
+- 👋 Hello, My name is Steven Winters, looking to further my skills as a Cloud Engineer. I've created a few projects and ready to become more of an expert in different areas.
 
 ## Interests:
 - 👀 What I’m interested in is Cloud computing/programming, my current goal is to gain an entry level position in the Cloud space and show what I'm capable of in a real job setting.
