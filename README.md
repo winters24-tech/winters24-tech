@@ -1,13 +1,12 @@
 # About Me:
-- 👋 Hello, My name is Steven Winters, looking to further my skills as a Cloud Engineer. I've created a few projects and ready to become more of an expert within the Cloud and eventually be a hybrid Cloud Engineer.
+- 👋 Hello, My name is Steven Winters, looking to further my skills as a Fraud Analyst. Being an expert in Fraud, constantly growing my skills in Data Analytics whilst already having incorporating Cloud skills in addition to it all. 
 
 ## Interests:
-- 👀 What I’m interested in is Cloud computing and programming, my current goal is to gain an entry level position in the Cloud space and show what I'm capable of in a real job setting.
+- 👀 What I’m interested in; I'm interested in Data Analytics with a future focus of Data Scientist skills of building ML models specialized within the Fraud/Cyber space.
 - I like joining communities to network and learn as much as possible because I'm so glad that I found something that I really like to do.
 
 ## Learning:
-- 🌱 I am AWS certified and I have worked on projects that I've completed over the pass few months as I continue to build my skills in the Cloud. 
-- In addition to my learning, I'm trying to join as many communities as I can for learning. I'm currently doing #100daysofcloud to really gain confidence and familiarity in the cloud services. (I have a repo to showcase this journey as well). Check it out and give feedback!
+- 🌱 With all the things I've accomplished I've learned, I am currently AWS certified (Cloud Practitioner); I have completed a certification of Google Data Analytics (Coursera) and also will be IBM accredited as well.
 
 
 ## My Portfolio Site:
