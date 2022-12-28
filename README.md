@@ -14,4 +14,3 @@
 
 ## Social:
 [LinkedIn] https://www.linkedin.com/in/stevenwinters24/ <br>
-[Twitter] https://twitter.com/steve__o24
