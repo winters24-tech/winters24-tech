@@ -10,7 +10,7 @@
 
 
 ## My Portfolio Site:
-[Porfolio] https://sites.google.com/view/steven-winters/home
+[Porfolio](https://sites.google.com/view/steven-winters/home) <br>
 
 ## Social:
-[LinkedIn] https://www.linkedin.com/in/stevenwinters24/ <br>
+[LinkedIn](https://www.linkedin.com/in/stevenwinters24/) <br>
