@@ -10,7 +10,7 @@
 
 
 ## My Portfolio Site:
-[Porfolio] https://stevenwinters.netlify.app/
+[Porfolio] https://sites.google.com/view/steven-winters/home
 
 ## Social:
 [LinkedIn] https://www.linkedin.com/in/stevenwinters24/ <br>
