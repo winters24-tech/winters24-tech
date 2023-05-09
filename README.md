@@ -1,12 +1,13 @@
 # About Me:
-- 👋 Hello, My name is Steven Winters, looking to further my skills as a Fraud Analyst. Being an expert in Fraud, constantly growing my skills in Data Analytics whilst already having incorporating Cloud skills in addition to it all. 
+- 👋 Hello, My name is Steven Winters, I have a desire to become a Cybersecurity Analyst. Being an expert in Fraud, constantly growing my skills and knowledge allows me to transistion to this role fairly easy along with incorporating Cloud skills in addition to it. 
+
 
 ## Interests:
-- 👀 What I’m interested in; I'm interested in Data Analytics with a future focus of Data Scientist skills of building ML models specialized within the Fraud/Cyber space.
-- I like joining communities to network and learn as much as possible because I'm so glad that I found something that I really like to do.
+- 👀 I'm interested in Cyber because I love to protect people and organizations from fraud. I've been in the field for over 7 years and look to expand from credit card fraud to Cyber fraud. I want to learn to build ML models specialized within the Fraud/Cyber space.
+
 
 ## Learning:
-- 🌱 With all the things I've accomplished I've learned, I am currently AWS certified (Cloud Practitioner); I have completed a certification of Google Data Analytics (Coursera) and also will be IBM accredited as well.
+- 🌱  I am currently AWS certified (Cloud Practitioner); Currently enrolled in the Google's Cybersecurity Program!
 
 
 ## My Portfolio Site:
