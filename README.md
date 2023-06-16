@@ -7,7 +7,7 @@
 
 
 ## Learning:
-- 🌱  I am currently AWS certified (Cloud Practitioner); Currently enrolled in the Google's Cybersecurity Program!
+- 🌱  I am currently AWS certified (Cloud Practitioner); Completed Google's Data Analytics course; Currently enrolled in the Google's Cybersecurity Program.
 
 
 ## My Portfolio Site:
