@@ -8,6 +8,8 @@
 
 ## Learning:
 - 🌱  I am consistently learning and upskilling myself with data tools and languages to allow myself to be available to assist in multiple ways of business needs.
+- Currently learning: The Complete SQL Bootcamp: Go from Zero to Hero and 100 Days of Code: The Complete Python Pro Bootcamp via Udemy.
+- Previously learned: SQL Programming Basics via Udemy and Google Data Analytics Specialization through Coursera.
 
 
 ## My Portfolio Site:
